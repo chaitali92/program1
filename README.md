@@ -1,2 +1,2 @@
 # program1
-MY NEW OROGRAM
+MY NEW PROGRAM
